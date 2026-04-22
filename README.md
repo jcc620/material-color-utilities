@@ -1,5 +1,7 @@
 # Material Color Utilities
 
+This repository is a fork of material-color-utilities which includes a vibecoded Go implementation.
+
 Color is a powerful design tool and part of the Material system along with
 styles like typography and shape. In products, colors and the way they are used
 can be vast and varied. An app’s color scheme can express brand and style.
