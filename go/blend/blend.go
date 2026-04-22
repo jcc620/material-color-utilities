@@ -2,8 +2,8 @@ package blend
 
 import (
 	"math"
-	"material-color-utilities/cam"
-	"material-color-utilities/utils"
+	"github.com/jcc620/material-color-utilities/go/cam"
+	"github.com/jcc620/material-color-utilities/go/utils"
 )
 
 func Harmonize(designColor, keyColor utils.Argb) utils.Argb {

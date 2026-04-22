@@ -2,7 +2,7 @@ package cam
 
 import (
 	"testing"
-	"material-color-utilities/utils"
+	"github.com/jcc620/material-color-utilities/go/utils"
 )
 
 func TestHctSolverRed(t *testing.T) {

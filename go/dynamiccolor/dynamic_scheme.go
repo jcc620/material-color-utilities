@@ -1,9 +1,9 @@
 package dynamiccolor
 
 import (
-	"material-color-utilities/cam"
-	"material-color-utilities/palettes"
-	"material-color-utilities/utils"
+	"github.com/jcc620/material-color-utilities/go/cam"
+	"github.com/jcc620/material-color-utilities/go/palettes"
+	"github.com/jcc620/material-color-utilities/go/utils"
 )
 
 type DynamicScheme struct {

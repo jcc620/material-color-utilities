@@ -3,7 +3,7 @@ package palettes
 import (
 	"math"
 	"testing"
-	"material-color-utilities/utils"
+	"github.com/jcc620/material-color-utilities/go/utils"
 )
 
 func TestTonesBlue(t *testing.T) {

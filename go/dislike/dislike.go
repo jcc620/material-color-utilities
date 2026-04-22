@@ -2,7 +2,7 @@ package dislike
 
 import (
 	"math"
-	"material-color-utilities/cam"
+	"github.com/jcc620/material-color-utilities/go/cam"
 )
 
 func IsDisliked(hct *cam.Hct) bool {

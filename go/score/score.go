@@ -3,8 +3,8 @@ package score
 import (
 	"math"
 	"sort"
-	"material-color-utilities/cam"
-	"material-color-utilities/utils"
+	"github.com/jcc620/material-color-utilities/go/cam"
+	"github.com/jcc620/material-color-utilities/go/utils"
 )
 
 const (

@@ -3,8 +3,8 @@ package scheme
 import (
 	"math"
 	"testing"
-	"material-color-utilities/cam"
-	"material-color-utilities/dynamiccolor"
+	"github.com/jcc620/material-color-utilities/go/cam"
+	"github.com/jcc620/material-color-utilities/go/dynamiccolor"
 )
 
 func TestSchemeMonochromeDark(t *testing.T) {

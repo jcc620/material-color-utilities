@@ -1,6 +1,6 @@
 package dynamiccolor
 
-import "material-color-utilities/utils"
+import "github.com/jcc620/material-color-utilities/go/utils"
 
 type ContrastCurve struct {
 	Low, Normal, Medium, High float64

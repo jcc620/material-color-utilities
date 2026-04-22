@@ -2,10 +2,10 @@ package scheme
 
 import (
 	"math"
-	"material-color-utilities/cam"
-	"material-color-utilities/dynamiccolor"
-	"material-color-utilities/palettes"
-	"material-color-utilities/utils"
+	"github.com/jcc620/material-color-utilities/go/cam"
+	"github.com/jcc620/material-color-utilities/go/dynamiccolor"
+	"github.com/jcc620/material-color-utilities/go/palettes"
+	"github.com/jcc620/material-color-utilities/go/utils"
 )
 
 func NewSchemeTonalSpot(sourceColorHct *cam.Hct, isDark bool, contrastLevel float64) *dynamiccolor.DynamicScheme {

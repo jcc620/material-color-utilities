@@ -2,7 +2,7 @@ package cam
 
 import (
 	"math"
-	"material-color-utilities/utils"
+	"github.com/jcc620/material-color-utilities/go/utils"
 )
 
 var kScaledDiscountFromLinrgb = [3][3]float64{

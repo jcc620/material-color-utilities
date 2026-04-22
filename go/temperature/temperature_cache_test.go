@@ -3,8 +3,8 @@ package temperature
 import (
 	"math"
 	"testing"
-	"material-color-utilities/cam"
-	"material-color-utilities/utils"
+	"github.com/jcc620/material-color-utilities/go/cam"
+	"github.com/jcc620/material-color-utilities/go/utils"
 )
 
 func TestRawTemperature(t *testing.T) {
